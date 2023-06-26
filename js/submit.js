@@ -35,7 +35,7 @@ const submitBtn = () => {
 
   let body = {
     name: fullName.value,
-    email_form: email.value,
+    email_from: email.value,
     phone: "123456",
     description: message.value,
     source_id: 15,
